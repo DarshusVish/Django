@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Vshop1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_26A62DD78CA242BBB018D249FFD1065A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F430899A3A8B476B89C82BE4C39C898A }}
